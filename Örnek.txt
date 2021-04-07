@@ -1,0 +1,225 @@
+2021-04-07 16:08:13.364074
+---------------------------------------
+Houston - Dallas
+---------------------------------------
+Houston
+Genel kazanma orani= %26
+221.5 - 222.5 - 223.5 - 224.5 - 225.5 - 226.5 - 227.5 -  => Baremler
+  %46 -   %46 -   %46 -   %46 -   %46 -   %40 -   %40 -  => Ust olma olasiligi
+Evinde attigi ortalama sayi = 105
+Rakip takima attigi ortalama sayi = 116.5
+
+Dallas
+Genel kazanma orani= %57
+221.5 - 222.5 - 223.5 - 224.5 - 225.5 - 226.5 - 227.5 -  => Baremler
+  %43 -   %43 -   %43 -   %36 -   %36 -   %36 -   %36 -  => Ust olma olasiligi
+Deplasmanda attigi ortalama sayi = 113
+Rakip takima attigi ortalama sayi = 110.5
+
+Kendi aralarinda attiklari toplam sayilar
+241 - 213 - 
+Kendi aralarinda atilan ortalama sayi = 227
+
+Kendi aralarinda oynanan maclara gore olasiliklar
+221.5 - 222.5 - 223.5 - 224.5 - 225.5 - 226.5 - 227.5 -  => Baremler
+  %50 -   %50 -   %50 -   %50 -   %50 -   %50 -   %50 -  => Ust olma olasiligi
+
+
+---------------------------------------
+Denver - San Antonio
+---------------------------------------
+Denver
+Genel kazanma orani= %64
+221.5 - 222.5 - 223.5 - 224.5 - 225.5 - 226.5 - 227.5 -  => Baremler
+  %60 -   %53 -   %50 -   %50 -   %46 -   %46 -   %40 -  => Ust olma olasiligi
+Evinde attigi ortalama sayi = 116
+Rakip takima attigi ortalama sayi = 109.0
+
+San Antonio
+Genel kazanma orani= %50
+221.5 - 222.5 - 223.5 - 224.5 - 225.5 - 226.5 - 227.5 -  => Baremler
+  %50 -   %50 -   %50 -   %46 -   %46 -   %36 -   %36 -  => Ust olma olasiligi
+Deplasmanda attigi ortalama sayi = 111
+Rakip takima attigi ortalama sayi = 119.0
+
+Kendi aralarinda attiklari toplam sayilar
+228 - 
+Kendi aralarinda atilan ortalama sayi = 228
+
+Kendi aralarinda oynanan maclara gore olasiliklar
+221.5 - 222.5 - 223.5 - 224.5 - 225.5 - 226.5 - 227.5 -  => Baremler
+  %100 -   %100 -   %100 -   %100 -   %100 -   %100 -   %100 -  => Ust olma olasiligi
+
+
+---------------------------------------
+Phoenix - Utah
+---------------------------------------
+Phoenix
+Genel kazanma orani= %71
+222.5 - 223.5 - 224.5 - 225.5 - 226.5 - 227.5 - 228.5 -  => Baremler
+  %56 -   %53 -   %50 -   %46 -   %46 -   %43 -   %43 -  => Ust olma olasiligi
+Evinde attigi ortalama sayi = 116
+Rakip takima attigi ortalama sayi = 101.0
+
+Utah
+Genel kazanma orani= %76
+222.5 - 223.5 - 224.5 - 225.5 - 226.5 - 227.5 - 228.5 -  => Baremler
+  %56 -   %56 -   %56 -   %56 -   %53 -   %50 -   %43 -  => Ust olma olasiligi
+Deplasmanda attigi ortalama sayi = 115
+Rakip takima attigi ortalama sayi = 108.33333333333333
+
+Kendi aralarinda attiklari toplam sayilar
+201 - 203 - 224 - 
+Kendi aralarinda atilan ortalama sayi = 209.33333333333334
+
+Kendi aralarinda oynanan maclara gore olasiliklar
+222.5 - 223.5 - 224.5 - 225.5 - 226.5 - 227.5 - 228.5 -  => Baremler
+  %33 -   %33 -   %0 -   %0 -   %0 -   %0 -   %0 -  => Ust olma olasiligi
+
+
+---------------------------------------
+Oklahoma - Charlotte
+---------------------------------------
+Oklahoma
+Genel kazanma orani= %40
+210.5 - 211.5 - 212.5 - 213.5 - 214.5 - 215.5 - 216.5 -  => Baremler
+  %66 -   %66 -   %66 -   %66 -   %66 -   %63 -   %56 -  => Ust olma olasiligi
+Evinde attigi ortalama sayi = 107
+Rakip takima attigi ortalama sayi = 109.0
+
+Charlotte
+Genel kazanma orani= %51
+210.5 - 211.5 - 212.5 - 213.5 - 214.5 - 215.5 - 216.5 -  => Baremler
+  %80 -   %76 -   %76 -   %73 -   %73 -   %70 -   %66 -  => Ust olma olasiligi
+Deplasmanda attigi ortalama sayi = 111
+Rakip takima attigi ortalama sayi = 107.0
+
+Kendi aralarinda attiklari toplam sayilar
+216 - 
+Kendi aralarinda atilan ortalama sayi = 216
+
+Kendi aralarinda oynanan maclara gore olasiliklar
+210.5 - 211.5 - 212.5 - 213.5 - 214.5 - 215.5 - 216.5 -  => Baremler
+  %100 -   %100 -   %100 -   %100 -   %100 -   %100 -   %0 -  => Ust olma olasiligi
+
+
+---------------------------------------
+Atlanta - Memphis
+---------------------------------------
+Atlanta
+Genel kazanma orani= %52
+224.5 - 225.5 - 226.5 - 227.5 - 228.5 - 229.5 - 230.5 -  => Baremler
+  %70 -   %70 -   %66 -   %53 -   %46 -   %40 -   %33 -  => Ust olma olasiligi
+Evinde attigi ortalama sayi = 113
+Rakip takima attigi ortalama sayi = 115.0
+
+Memphis
+Genel kazanma orani= %52
+224.5 - 225.5 - 226.5 - 227.5 - 228.5 - 229.5 - 230.5 -  => Baremler
+  %50 -   %46 -   %46 -   %46 -   %43 -   %43 -   %40 -  => Ust olma olasiligi
+Deplasmanda attigi ortalama sayi = 115
+Rakip takima attigi ortalama sayi = 118.66666666666667
+
+Kendi aralarinda attiklari toplam sayilar
+234 - 233 - 234 - 
+Kendi aralarinda atilan ortalama sayi = 233.66666666666666
+
+Kendi aralarinda oynanan maclara gore olasiliklar
+224.5 - 225.5 - 226.5 - 227.5 - 228.5 - 229.5 - 230.5 -  => Baremler
+  %100 -   %100 -   %100 -   %100 -   %100 -   %100 -   %100 -  => Ust olma olasiligi
+
+
+---------------------------------------
+Orlando - Washington
+---------------------------------------
+Orlando
+Genel kazanma orani= %34
+221.5 - 222.5 - 223.5 - 224.5 - 225.5 - 226.5 - 227.5 -  => Baremler
+  %36 -   %36 -   %33 -   %33 -   %33 -   %33 -   %30 -  => Ust olma olasiligi
+Evinde attigi ortalama sayi = 106
+Rakip takima attigi ortalama sayi = 125.0
+
+Washington
+Genel kazanma orani= %34
+221.5 - 222.5 - 223.5 - 224.5 - 225.5 - 226.5 - 227.5 -  => Baremler
+  %60 -   %56 -   %56 -   %56 -   %56 -   %56 -   %56 -  => Ust olma olasiligi
+Deplasmanda attigi ortalama sayi = 108
+Rakip takima attigi ortalama sayi = 116.5
+
+Kendi aralarinda attiklari toplam sayilar
+233 - 250 - 
+Kendi aralarinda atilan ortalama sayi = 241.5
+
+Kendi aralarinda oynanan maclara gore olasiliklar
+221.5 - 222.5 - 223.5 - 224.5 - 225.5 - 226.5 - 227.5 -  => Baremler
+  %100 -   %100 -   %100 -   %100 -   %100 -   %100 -   %100 -  => Ust olma olasiligi
+
+
+---------------------------------------
+Boston - New York
+---------------------------------------
+Boston
+Genel kazanma orani= %49
+209.5 - 210.5 - 211.5 - 212.5 - 213.5 - 214.5 - 215.5 -  => Baremler
+  %76 -   %73 -   %70 -   %70 -   %70 -   %70 -   %70 -  => Ust olma olasiligi
+Evinde attigi ortalama sayi = 112
+Rakip takima attigi ortalama sayi = 75.0
+
+New York
+Genel kazanma orani= %49
+209.5 - 210.5 - 211.5 - 212.5 - 213.5 - 214.5 - 215.5 -  => Baremler
+  %50 -   %46 -   %46 -   %36 -   %36 -   %36 -   %36 -  => Ust olma olasiligi
+Deplasmanda attigi ortalama sayi = 103
+Rakip takima attigi ortalama sayi = 105.0
+
+Kendi aralarinda attiklari toplam sayilar
+180 - 
+Kendi aralarinda atilan ortalama sayi = 180
+
+Kendi aralarinda oynanan maclara gore olasiliklar
+209.5 - 210.5 - 211.5 - 212.5 - 213.5 - 214.5 - 215.5 -  => Baremler
+  %0 -   %0 -   %0 -   %0 -   %0 -   %0 -   %0 -  => Ust olma olasiligi
+
+
+---------------------------------------
+Indiana - Minnesota
+---------------------------------------
+Indiana
+Genel kazanma orani= %44
+225.5 - 226.5 - 227.5 - 228.5 - 229.5 - 230.5 - 231.5 -  => Baremler
+  %53 -   %53 -   %43 -   %43 -   %40 -   %36 -   %36 -  => Ust olma olasiligi
+Evinde attigi ortalama sayi = 110
+Rakip takima attigi ortalama sayi = 134.0
+
+Minnesota
+Genel kazanma orani= %25
+225.5 - 226.5 - 227.5 - 228.5 - 229.5 - 230.5 - 231.5 -  => Baremler
+  %63 -   %60 -   %60 -   %53 -   %53 -   %53 -   %50 -  => Ust olma olasiligi
+Deplasmanda attigi ortalama sayi = 111
+Rakip takima attigi ortalama sayi = 128.0
+
+Kendi aralarinda attiklari toplam sayilar
+262 - 
+Kendi aralarinda atilan ortalama sayi = 262
+
+Kendi aralarinda oynanan maclara gore olasiliklar
+225.5 - 226.5 - 227.5 - 228.5 - 229.5 - 230.5 - 231.5 -  => Baremler
+  %100 -   %100 -   %100 -   %100 -   %100 -   %100 -   %100 -  => Ust olma olasiligi
+
+
+---------------------------------------
+Brooklyn - New Orleans
+---------------------------------------
+Brooklyn
+Genel kazanma orani= %68
+228.5 - 229.5 - 230.5 - 231.5 - 232.5 - 233.5 - 234.5 -  => Baremler
+  %46 -   %43 -   %40 -   %40 -   %36 -   %33 -   %30 -  => Ust olma olasiligi
+Evinde attigi ortalama sayi = 117
+Rakip takima attigi ortalama sayi = Aralarindaki ilk mac
+
+New Orleans
+Genel kazanma orani= %44
+228.5 - 229.5 - 230.5 - 231.5 - 232.5 - 233.5 - 234.5 -  => Baremler
+  %63 -   %60 -   %56 -   %50 -   %50 -   %50 -   %50 -  => Ust olma olasiligi
+Deplasmanda attigi ortalama sayi = 112
+Rakip takima attigi ortalama sayi = Aralarindaki ilk mac
