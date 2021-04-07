@@ -1,7 +1,7 @@
 # NBA-gunun-maclari-analiz-program-
 NBA günün maçları
 
--Takımların oynadıkları maçları kazanma yüzdeleri.
+-Takımların oynadıkları maçları kazanma yüzdeleri.\n
 -Takımlar ayrı ayrı alt üst baremlerini önceki oynadıkları maçların skorlarına göre geçme olasılıkları.
 -Ev sahibinin ev sahibi olarak attığı ortalama sayı
 -Deplasman takımının deplasman olarak attığı ortalama sayı
