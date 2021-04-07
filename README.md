@@ -17,4 +17,4 @@ NBA günün maçları
 
 ***Tüm olasılıklar oynanılan sezondaki verilere göre oluşturulmuştur geçmiş sezon oynanan hiç bir maç dahil edilmemiştir.
 
-***Tüm olasılıklar sadece sayısal istatistiklerdir. Fikir vermesi amacıyla oluşturulmuştur. Oynalınan bahislerden kişiler kendi sorumluluğundadır.
+***Tüm olasılıklar sadece sayısal istatistiklerdir. Fikir vermesi amacıyla oluşturulmuştur. Oynalınan bahislerden kişiler kendi sorumludur.
