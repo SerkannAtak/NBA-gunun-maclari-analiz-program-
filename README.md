@@ -2,6 +2,7 @@
 NBA günün maçları
 
 -Takımların oynadıkları maçları kazanma yüzdeleri.
+
 -Takımlar ayrı ayrı alt üst baremlerini önceki oynadıkları maçların skorlarına göre geçme olasılıkları.
 -Ev sahibinin ev sahibi olarak attığı ortalama sayı
 -Deplasman takımının deplasman olarak attığı ortalama sayı
