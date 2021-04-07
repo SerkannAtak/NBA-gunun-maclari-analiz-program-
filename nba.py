@@ -72,7 +72,7 @@ for i in range(len(ids)):
     pid.append(temp_pid)
 bets = json.dumps(bets)
 bets = json.loads(bets)
-# IDlernden NBA olanları ayıklama 114 = NBA-ID
+# IDlernden Alt Üst olanları ayıklama 114 = Alt-Üst
 for i in range(bets.__len__()):
     temp_array = []
     for j in range(len(bets[i]['m'])):
