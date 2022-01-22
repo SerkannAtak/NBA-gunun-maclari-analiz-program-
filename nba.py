@@ -10,7 +10,6 @@ txt = "NBA-" + str(round(time.time() * 1000)) + ".txt"
 url = "https://apivx.misli.com/api/web/v1/sportsbook/event/0?sportType=BASKETBALL&betType=PRE_EVENT"
 response = requests.get(url)
 json_value = response.json()
-
 #JSON data okuma
 for i in range(len(json_value['data']['e']) - 1):
     temp_a = []
@@ -19,6 +18,7 @@ for i in range(len(json_value['data']['e']) - 1):
         temp_a.append(json_value['data']['e'][i]['p'][1]['n'])
         names.append(temp_a)
         ids.append(json_value['data']['e'][i]['i'])
+print(ids)
 #JSON performans kısmını okuma
 for i in range(len(ids)):
     url = "https://apivx.misli.com/api/web/v1/statistics/match/" + str(ids[i]) + "/performance"
@@ -72,7 +72,7 @@ for i in range(len(ids)):
     pid.append(temp_pid)
 bets = json.dumps(bets)
 bets = json.loads(bets)
-# IDlernden Alt Üst olanları ayıklama 114 = Alt-Üst
+# IDlernden NBA olanları ayıklama 114 = NBA-ID
 for i in range(bets.__len__()):
     temp_array = []
     for j in range(len(bets[i]['m'])):
@@ -115,26 +115,26 @@ for k in range(ids.__len__()):
     null = ["null", "null"]
     if json_value['data'] is not None:
         for l in range(pid[k].__len__()):
-            for h in range(len(json_value['data']['standings']['OVERALL'])):
-                if pid[k][l] == json_value['data']['standings']['OVERALL'][h]['team']['id']:
-                    a = json_value['data']['standings']['OVERALL'][h]['won']
-                    b = json_value['data']['standings']['OVERALL'][h]['played']
+            for h in range(len(json_value['data']['tournamentStandings'][0]['standings']['OVERALL'])):
+                if pid[k][l] == json_value['data']['tournamentStandings'][0]['standings']['OVERALL'][h]['team']['id']:
+                    a = json_value['data']['tournamentStandings'][0]['standings']['OVERALL'][h]['won']
+                    b = json_value['data']['tournamentStandings'][0]['standings']['OVERALL'][h]['played']
                     temp = int((a / b) * 100)
                     temp_position.append(temp)
         positions.append(temp_position)
     else:
         positions.append(null)
     try:
-        for i in range(len(json_value['data']['standings']['HOME'])):
+        for i in range(len(json_value['data']['tournamentStandings'][0]['standings']['HOME'])):
             for j in range(pid.__len__()):
                 if json_value['data']['standings']['HOME'][i]['team']['id'] == pid[j][0]:
-                    home_points.append(int(int(json_value['data']['standings']['HOME'][i]['scored'])
-                                           / int(json_value['data']['standings']['HOME'][i]['played'])))
-        for i in range(len(json_value['data']['standings']['AWAY'])):
+                    home_points.append(int(int(json_value['data']['tournamentStandings'][0]['standings']['HOME'][i]['scored'])
+                                           / int(json_value['data']['tournamentStandings'][0]['standings']['HOME'][i]['played'])))
+        for i in range(len(json_value['data']['tournamentStandings'][0]['standings']['AWAY'])):
             for j in range(pid.__len__()):
-                if json_value['data']['standings']['AWAY'][i]['team']['id'] == pid[j][1]:
-                    away_points.append(int(int(json_value['data']['standings']['AWAY'][i]['scored'])
-                                           / int(json_value['data']['standings']['AWAY'][i]['played'])))
+                if json_value['data']['tournamentStandings'][0]['standings']['AWAY'][i]['team']['id'] == pid[j][1]:
+                    away_points.append(int(int(json_value['data']['tournamentStandings'][0]['standings']['AWAY'][i]['scored'])
+                                           / int(json_value['data']['tournamentStandings'][0]['standings']['AWAY'][i]['played'])))
     except:
         home_points.append("null")
         away_points.append("null")
