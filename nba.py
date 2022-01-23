@@ -106,7 +106,7 @@ for i in range(away_scors.__len__()):
     for t in range(temp_odds.__len__()):
         temp_odds[t] = int((temp_odds[t] / away_scors[i].__len__()) * 100)
     away_odds.append(temp_odds)
-#Kazanma yüzdesihesaplama
+#Kazanma yüzdesi hesaplama
 for k in range(ids.__len__()):
     url = "https://apivx.misli.com/api/web/v1/statistics/match/" + str(ids[k]) + "/standing"
     response = requests.get(url)
@@ -127,7 +127,7 @@ for k in range(ids.__len__()):
     try:
         for i in range(len(json_value['data']['tournamentStandings'][0]['standings']['HOME'])):
             for j in range(pid.__len__()):
-                if json_value['data']['standings']['HOME'][i]['team']['id'] == pid[j][0]:
+                if json_value['data']['tournamentStandings'][0]['standings']['HOME'][i]['team']['id'] == pid[j][0]:
                     home_points.append(int(int(json_value['data']['tournamentStandings'][0]['standings']['HOME'][i]['scored'])
                                            / int(json_value['data']['tournamentStandings'][0]['standings']['HOME'][i]['played'])))
         for i in range(len(json_value['data']['tournamentStandings'][0]['standings']['AWAY'])):
